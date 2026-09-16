@@ -29,3 +29,4 @@ A Tier 2/Desktop Support portfolio built from hands-on labs (VirtualBox). Each t
 ### Active Directory Ticket Scenarios
 - **AD-001** Account lockout: [docs/ad/AD-001_Account_Lockout.md](docs/ad/AD-001_Account_Lockout.md)
 - **AD-003** Share access denied: [docs/ad/AD-003_Share_Access_Denied.md](docs/ad/AD-003_Share_Access_Denied.md)
+- **AD-004** Active Directory DNS remediation: [docs/ad/AD-004_AD_DNS_Remediation.md](docs/ad/AD-004_AD_DNS_Remediation.md)

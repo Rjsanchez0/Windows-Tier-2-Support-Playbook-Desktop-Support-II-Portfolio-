@@ -19,7 +19,7 @@ A Tier 2/Desktop Support portfolio built from hands-on labs (VirtualBox). Each t
 ## Start Here (Tier 2 Ticket Writeups)
 
 ### Windows / Desktop Support
-- **T2-001** Printer queue stuck: [docs/tickets/T2-001_Printer_queue_stuck.md](docs/tickets/T2-001_Printer_queue_stuck.md)
+- **T2-001** [Printer Queue Stuck](docs/tickets/T2-001_Printer_queue_stuck.md)
 - **T2-002** PowerShell Help Desk Toolkit: [docs/tickets/T2-002_PowerShell_HelpDesk_Toolkit.md](docs/tickets/T2-002_PowerShell_HelpDesk_Toolkit.md)
 - **T2-003** VPN issues (triage): [docs/tickets/T2-003_VPN_issues.md](docs/tickets/T2-003_VPN_issues.md)
 - **T2-004** Outlook/M365 sign-in loop: [docs/tickets/T2-004_Outlook_M365_SignIn_Loop](docs/tickets/T2-004_Outlook_M365_SignIn_Loop)

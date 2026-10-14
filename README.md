@@ -31,3 +31,4 @@ A Tier 2/Desktop Support portfolio built from hands-on labs (VirtualBox). Each t
 - **AD-002** User lifecycle management — onboarding & offboarding: [AD-002-Active-Directory-User-Lifecycle-Management](https://github.com/Rjsanchez0/AD-002-Active-Directory-User-Lifecycle-Management)
 - **AD-003** Share access denied: [docs/ad/AD-003_Share_Access_Denied.md](docs/ad/AD-003_Share_Access_Denied.md)
 - **AD-004** Active Directory DNS remediation: [docs/ad/AD-004_AD_DNS_Remediation.md](docs/ad/AD-004_AD_DNS_Remediation.md)
+- **AD-005** Active Directory PowerShell automation: [docs/ad/AD-005_Active_Directory_PowerShell_Automation.md](docs/ad/AD-005_Active_Directory_PowerShell_Automation.md)

@@ -38,14 +38,14 @@ The portfolio includes Windows troubleshooting, Active Directory administration,
 - **T2-001** Printer queue stuck: [docs/tickets/T2_001_Printer_que_stuck.md](docs/tickets/T2_001_Printer_que_stuck.md)
 - **T2-002** PowerShell Help Desk Toolkit: [docs/tickets/T2-002_PowerShell_HelpDesk_Toolkit.md](docs/tickets/T2-002_PowerShell_HelpDesk_Toolkit.md)
 - **T2-003** VPN issues (triage): [docs/tickets/T2-003_VPN_issues.md](docs/tickets/T2-003_VPN_issues.md)
-- **T2-004** Outlook/M365 sign-in loop: [docs/tickets/T2-004_Outlook_M365_SignIn_Loop](docs/tickets/T2-004_Outlook_M365_SignIn_Loop)
-- **T2-005** No internet (DNS/DHCP): [docs/tickets/T2-005_No_Internet_DNS_DHCP](docs/tickets/T2-005_No_Internet_DNS_DHCP)
+- **T2-004** Outlook/M365 sign-in loop: [docs/tickets/T2-004_Outlook_M365_SignIn_Loop](docs/tickets/T2-004_Outlook_M365_SignIn_Loop.md)
+- **T2-005** No internet (DNS/DHCP): [docs/tickets/T2-005_No_Internet_DNS_DHCP](docs/tickets/T2-005_No_Internet_DNS_DHCP.md)
 - **T2-006** Windows slow triage: [docs/tickets/T2_006_windows_slow.md](docs/tickets/T2_006_windows_slow.md)
 
 ### Active Directory / Windows Administration
 
 - **AD-001** Account lockout: [docs/ad/AD-001_Account_Lockout.md](docs/ad/AD-001_Account_Lockout.md)
-- **AD-002** User lifecycle management — onboarding & offboarding: [AD-002-Active-Directory-User-Lifecycle-Management](https://github.com/Rjsanchez0/AD-002-Active-Directory-User-Lifecycle-Management)
+- **AD-002** User lifecycle management — onboarding & offboarding: [AD-002-Active-Directory-User-Lifecycle-Management](https://github.com/Rjsanchez0/AD-002-Active-Directory-User-Lifecycle-Management.md)
 - **AD-003** Share access denied: [docs/ad/AD-003_Share_Access_Denied.md](docs/ad/AD-003_Share_Access_Denied.md)
 - **AD-004** Active Directory DNS remediation: [docs/ad/AD-004_AD_DNS_Remediation.md](docs/ad/AD-004_AD_DNS_Remediation.md)
 - **AD-005** Active Directory PowerShell automation: [docs/ad/AD-005_Active_Directory_PowerShell_Automation.md](docs/ad/AD-005_Active_Directory_PowerShell_Automation.md)

@@ -32,4 +32,4 @@ A Tier 2/Desktop Support portfolio built from hands-on labs (VirtualBox). Each t
 - **AD-003** Share access denied: [docs/ad/AD-003_Share_Access_Denied.md](docs/ad/AD-003_Share_Access_Denied.md)
 - **AD-004** Active Directory DNS remediation: [docs/ad/AD-004_AD_DNS_Remediation.md](docs/ad/AD-004_AD_DNS_Remediation.md)
 - **AD-005** Active Directory PowerShell automation: [docs/ad/AD-005_Active_Directory_PowerShell_Automation.md](docs/ad/AD-005_Active_Directory_PowerShell_Automation.md)
--  **AD-006** GPO workstation hardening: [docs/ad/AD-006_GPO_Workstation_Hardening.md](docs/ad/AD-006_GPO_Workstation_Hardening.md)
+- **AD-006** GPO workstation hardening: [docs/ad/AD-006_GPO_Workstation_Hardening.md](docs/ad/AD-006_GPO_Workstation_Hardening.md)

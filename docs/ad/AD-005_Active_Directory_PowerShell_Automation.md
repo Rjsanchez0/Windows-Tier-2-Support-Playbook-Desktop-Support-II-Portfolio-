@@ -115,7 +115,7 @@ This verified that the Active Directory PowerShell module was available and that
 
 ## Screenshot
 
-![Active Directory PowerShell Environment](../images/AD-005/01-ad-powershell-environment.png)
+![Active Directory PowerShell Environment](../images/ad/AD-005-S1-ad-powershell-environment.png)
 
 ---
 
@@ -196,7 +196,7 @@ The verification confirmed that:
 
 ## Screenshot
 
-![PowerShell User Creation](../images/AD-005/02-user-created.png)
+![PowerShell User Creation](../images/ad/AD-005-S2-user-created.png)
 
 ---
 
@@ -225,7 +225,7 @@ This demonstrates group-based access control rather than assigning access direct
 
 ## Screenshot
 
-![Engineering Group Membership](../images/AD-005/03-group-membership.png)
+![Engineering Group Membership](../images/ad/AD-005-S3-group-membership.png)
 
 ---
 
@@ -372,7 +372,7 @@ The resulting account configuration confirmed:
 
 ## Screenshot
 
-![Automated User Onboarding](../images/AD-005/04-automated-onboarding.png)
+![Automated User Onboarding](../images/ad/AD-005-S4-automated-onboarding.png)
 
 ---
 
@@ -457,9 +457,7 @@ The final output confirmed:
 - **Engineering_SG:** Removed
 - **Remaining default membership:** Domain Users
 
-## Screenshot
 
-![Automated User Offboarding](../images/AD-005/05-automated-offboarding.png)
 
 ---
 

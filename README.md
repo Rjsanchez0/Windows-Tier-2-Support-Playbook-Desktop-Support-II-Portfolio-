@@ -1,24 +1,40 @@
 # Help Desk Tier 2 Playbook (Desktop Support II Portfolio)
 
 ## What this is
-A Tier 2/Desktop Support portfolio built from hands-on labs (VirtualBox). Each ticket is written like real ITSM work: **symptoms → environment → triage → troubleshooting → resolution → verification → escalation criteria**.
+
+A hands-on Tier 2/Desktop Support and junior Windows administration portfolio built in a VirtualBox lab environment.
+
+Each project is documented using a real-world IT support workflow:
+
+**symptoms → environment → triage → troubleshooting → resolution → verification → escalation criteria**
+
+The portfolio includes Windows troubleshooting, Active Directory administration, PowerShell automation, DNS remediation, Group Policy management, workstation hardening, Microsoft 365 support, VPN troubleshooting, and access-control scenarios.
 
 ## Lab Environment
+
 - VirtualBox lab with **Domain Controller (AD DS/DNS)**, **2 Windows workstations**, and **Ubuntu**
 - Internal network (“LABNET”) with optional NAT for internet
 
 ## Skills Demonstrated
-- Windows 10/11 troubleshooting (drivers, updates, performance, permissions)
-- Active Directory workflows (lockouts, domain/DNS issues, group-based share permissions)
-- Printer/spooler troubleshooting + add printer by IP (lab simulation)
-- DNS/DHCP triage (ipconfig, ping, nslookup)
-- VPN triage (RasClient logs + evidence packet)
-- Outlook/Microsoft 365 sign-in triage (profiles/credentials + escalation packet)
-- Ticket documentation and escalation notes
 
-## Start Here (Tier 2 Ticket Writeups)
+- Windows 10/11 troubleshooting (drivers, updates, performance, permissions)
+- Active Directory administration (account lockouts, user lifecycle management, OUs, security groups)
+- Active Directory DNS and domain connectivity troubleshooting
+- PowerShell automation for Active Directory onboarding and offboarding
+- Group Policy administration and workstation hardening
+- Identity lifecycle management and access revocation
+- Group-based access control and least privilege
+- Printer/spooler troubleshooting and printer deployment by IP
+- DNS/DHCP triage using `ipconfig`, `ping`, and `nslookup`
+- VPN troubleshooting using RasClient logs and evidence collection
+- Outlook/Microsoft 365 sign-in troubleshooting
+- Windows file-share and NTFS permission troubleshooting
+- Ticket documentation, validation, and escalation notes
+
+## Start Here — Tier 2 / Windows Administration Projects
 
 ### Windows / Desktop Support
+
 - **T2-001** Printer queue stuck: [docs/tickets/T2_001_Printer_que_stuck.md](docs/tickets/T2_001_Printer_que_stuck.md)
 - **T2-002** PowerShell Help Desk Toolkit: [docs/tickets/T2-002_PowerShell_HelpDesk_Toolkit.md](docs/tickets/T2-002_PowerShell_HelpDesk_Toolkit.md)
 - **T2-003** VPN issues (triage): [docs/tickets/T2-003_VPN_issues.md](docs/tickets/T2-003_VPN_issues.md)
@@ -26,7 +42,8 @@ A Tier 2/Desktop Support portfolio built from hands-on labs (VirtualBox). Each t
 - **T2-005** No internet (DNS/DHCP): [docs/tickets/T2-005_No_Internet_DNS_DHCP](docs/tickets/T2-005_No_Internet_DNS_DHCP)
 - **T2-006** Windows slow triage: [docs/tickets/T2_006_windows_slow.md](docs/tickets/T2_006_windows_slow.md)
 
-### Active Directory Ticket Scenarios
+### Active Directory / Windows Administration
+
 - **AD-001** Account lockout: [docs/ad/AD-001_Account_Lockout.md](docs/ad/AD-001_Account_Lockout.md)
 - **AD-002** User lifecycle management — onboarding & offboarding: [AD-002-Active-Directory-User-Lifecycle-Management](https://github.com/Rjsanchez0/AD-002-Active-Directory-User-Lifecycle-Management)
 - **AD-003** Share access denied: [docs/ad/AD-003_Share_Access_Denied.md](docs/ad/AD-003_Share_Access_Denied.md)

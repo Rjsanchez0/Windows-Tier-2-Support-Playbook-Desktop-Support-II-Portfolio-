@@ -134,7 +134,7 @@ Linking the policy directly to the Workstations OU ensures that the workstation 
 
 ## Screenshot
 
-![Workstation Hardening Policy Linked](../images/ad/AD-006-S2-gpo-linked.png)
+
 
 ---
 
